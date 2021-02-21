@@ -12,10 +12,10 @@ My research focus mainly concentrates around interdisciplinary fields of theoret
 
 News
 ======
-[02/2021] One paper about Adopting GCN to discovery new drugs is accepted to Journal of Cheminformatics.
-[01/2021] One paper about robust learning aganist noisy label is accepted to ICLR2021 as spotlight.
-[12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to AAAI2021.
-[06/2020] One paper about multi-agent reinforcement learning is accepted to ICML2020.
+1. [02/2021] One paper about Adopting GCN to discovery new drugs is accepted to Journal of Cheminformatics.
+1. [01/2021] One paper about robust learning aganist noisy label is accepted to ICLR2021 as spotlight.
+1. [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to AAAI2021.
+1. [06/2020] One paper about multi-agent reinforcement learning is accepted to ICML2020.
 
 Opening
 ======
