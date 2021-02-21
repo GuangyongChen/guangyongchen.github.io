@@ -1,0 +1,29 @@
+---
+permalink: /pub/
+title: "Publication"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+<li> <b>Adopting Graph Neural Networks to Discover and Synthesis New Drugs</b></li>
+at Salon of Drug Discovery, Peking University, Beijing, Jul. 2019.
+<li><b>Exploring the Usages of AI tools in Drug Discovery</b></li>
+at Zhejiang University, Zhejiang, Jul. 2019,
+<br> at New York University Shanghai, Jul. 2019,
+<br> at Amazon, Shanghai, Jul. 2019,
+<br> at State Grid Corporation of China, Jiangsu, Jul. 2019,
+<br> at WuXi AppTec, Shanghai, Aug. 2019,
+<br> at AstraZeneca plc., Shanghai, Aug. 2019,
+<br> at Global Health Drug Discovery Institute (GHDDI), Beijing, Jan. 2020.
+<li><b>Adopting AI in Chemistry Research and Pharmacy Industry</b></li>
+at <a href="https://des.qq.com/kunming-2019/pc/agenda.html">Tencent Global Digital Ecosystem Summit</a>, Lake Dian, Yunnan, May 2019. 
+<br>
+<li><b>Analyzing the Effect of Noisy in the Machine Learning Systems</b> </li>
+at Beiyang Intelligence Forum, Tianjing University, Apr. 2019.
+<br>
+<li><b>Introduction to Recommender Systems</b> </li>
+at VIVO, Shenzhen, Apr. 2017.
+<br>
+<li><b>Learning to Aggregate Ordinal Labels by Maximizing Separating Width </b></li>
+at ICML, Sydney Australia, Aug. 2017.
