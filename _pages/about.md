@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-My research focus mainly concentrates around interdisciplinary fields of theoretical artificial intelligence analysis and real-world applications, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making. I am recently interested in AI-aided drug discovery, whose typical applications include high content phenotype analysis, drug analysis with molecular graph representation, retrosynthesis analysis with reinforcement learning, virus variation, etc, all with the aim to promote wider AI-powered technologies in the modern pharmaceutical pipeline..
+My research focus mainly concentrates around interdisciplinary fields of theoretical artificial intelligence analysis and real-world applications, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making. I am recently interested in AI-aided drug discovery, whose typical applications include high content phenotype analysis, drug analysis with molecular graph representation, retrosynthesis analysis with reinforcement learning, virus variation, etc, all with the aim to promote wider AI-powered technologies in the modern pharmaceutical pipeline.
 
 News
 ======
-1. [02/2021] One paper about Adopting GCN to discovery new drugs is accepted to Journal of Cheminformatics.
-1. [01/2021] One paper about robust learning aganist noisy label is accepted to ICLR2021 as spotlight.
-1. [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to AAAI2021.
-1. [06/2020] One paper about multi-agent reinforcement learning is accepted to ICML2020.
+[02/2021] One paper about Adopting GCN to discovery new drugs is accepted to Journal of Cheminformatics.<br>
+[01/2021] One paper about robust learning aganist noisy label is accepted to ICLR2021 as spotlight.<br>
+[12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to AAAI2021.<br>
+[06/2020] One paper about multi-agent reinforcement learning is accepted to ICML2020.
 
 Opening
 ======
-I am working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an email for more information or apply through the official website (CUHK PhD Summer Workshop / HKPFS / Fall 2021 PhD Program Regular Admission / Fall 2020 PhD Program Late Admission ).
+I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an email for more information or apply through the official website (CUHK PhD Summer Workshop / HKPFS / Fall 2021 PhD Program Regular Admission / Fall 2020 PhD Program Late Admission ).
 
 <!-- Site-wide configuration
 ------
