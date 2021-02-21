@@ -26,7 +26,7 @@ redirect_from:
 
 1. <a class="paper-title" href="http://proceedings.mlr.press/v97/chen19g.html"> Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels.</a> <br> Pengfei Chen#, Benben Liao, <b>Guangyong Chen*</b>, Shengyu Zhang. <br><i><b> Thirty-sixth International Conference on Machine Learning (ICML, <font color=red> CCF A</font>)</b>, 2019.</i><br>
 
-1. <a class="paper-title" href="https://rlgm.github.io/papers/31.pdf"> Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models.</a> <br> <b>Guangyong Chen</b>, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang. <br><i> Representation Learning on Graphs and Manifolds, <b>ICLR 2019</b> workshop.</i><a href="https://alchemy.tencent.com/">(Alchemy Contest)</a><br>
+1. <a class="paper-title" href="https://rlgm.github.io/papers/31.pdf"> Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models.</a> <br> <b>Guangyong Chen</b>, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang. <br><i><b> Representation Learning on Graphs and Manifolds, ICLR 2019</b> workshop.</i><a href="https://alchemy.tencent.com/">(Alchemy Contest)</a><br>
 
 1. <a class="paper-title" href="https://dl.acm.org/doi/abs/10.1145/3240323.3240390"> Psrec: Social Recommendation with Pseudo Ratings.</a> <br> Yitong Meng, <b>Guangyong Chen</b>, Jiajin Li, Shengyu Zhang. <br><i><b> Proceedings of the 12th ACM Conference on Recommender Systems (RecSys)</b>, 2018.</i><br>
 
