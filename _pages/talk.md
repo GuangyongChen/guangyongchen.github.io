@@ -1,6 +1,6 @@
 ---
-permalink: /pub/
-title: "Publication"
+permalink: /talk/
+title: "Talks"
 author_profile: true
 redirect_from: 
   - /md/
