@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focus mainly concentrates around interdisciplinary fields of **theoretical artificial intelligence analysis and real-world applications**, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making. I am recently interested in **AI-aided drug discovery**, whose typical applications include high content phenotype analysis, drug analysis with molecular graph representation, retrosynthesis analysis with reinforcement learning, virus variation, etc, all with the aim to promote wider AI-powered technologies in the modern pharmaceutical pipeline.
+I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research focus mainly concentrates around interdisciplinary fields of **theoretical artificial intelligence analysis and real-world applications**, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making. I am recently interested in **AI-aided drug discovery**, whose typical applications include high content phenotype analysis, drug analysis with molecular graph representation, retrosynthesis analysis with reinforcement learning, virus variation, etc, all with the aim to promote wider AI-powered technologies in the modern pharmaceutical pipeline.
 
 Opening
 ======
@@ -17,10 +17,10 @@ I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/
 
 News
 ======
-* [02/2021] One paper about Adopting GCN to discovery new drugs is accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
-* [01/2021] One paper about robust learning aganist noisy label is accepted to <font color=red> ICLR2021 (Top Conference @ AI) as spotlight </font>.
-* [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to <font color=red> AAAI2021 (CCF A)</font>.
-* [06/2020] One paper about multi-agent reinforcement learning is accepted to <font color=red> ICML2020 (CCF A)</font>.
+* [02/2021] One paper about adopting GCN to discovery new drugs has been accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
+* [01/2021] One paper about robust learning aganist noisy label has been accepted to <font color=red> ICLR2021 (Top Conference @ AI) as spotlight </font>.
+* [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning have been accepted to <font color=red> AAAI2021 (CCF A)</font>.
+* [06/2020] One paper about multi-agent reinforcement learning has been accepted to <font color=red> ICML2020 (CCF A)</font>.
 
 
 <!-- Site-wide configuration
