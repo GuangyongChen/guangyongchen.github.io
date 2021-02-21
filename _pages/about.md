@@ -12,14 +12,15 @@ My research focus mainly concentrates around interdisciplinary fields of **theor
 
 Opening
 ======
-I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an email for more information or apply through the official website (CUHK PhD Summer Workshop / HKPFS / Fall 2021 PhD Program Regular Admission / Fall 2020 PhD Program Late Admission ).
+I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an email for more information or apply through the 
+[official website](https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme) ([CUHK PhD Summer Workshop](http://hkpfs.erg.cuhk.edu.hk/) / [HKPFS](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs) ).
 
 News
 ======
-*02/2021] One paper about Adopting GCN to discovery new drugs is accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
-*[01/2021] One paper about robust learning aganist noisy label is accepted to <font color=red> ICLR2021 (Top Conference @ AI) as spotlight </font>.
-*[12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to <font color=red> AAAI2021 (CCF A)</font>.
-*[06/2020] One paper about multi-agent reinforcement learning is accepted to <font color=red> ICML2020 (CCF A)</font>.
+* [02/2021] One paper about Adopting GCN to discovery new drugs is accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
+* [01/2021] One paper about robust learning aganist noisy label is accepted to <font color=red> ICLR2021 (Top Conference @ AI) as spotlight </font>.
+* [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning are accepted to <font color=red> AAAI2021 (CCF A)</font>.
+* [06/2020] One paper about multi-agent reinforcement learning is accepted to <font color=red> ICML2020 (CCF A)</font>.
 
 
 <!-- Site-wide configuration
