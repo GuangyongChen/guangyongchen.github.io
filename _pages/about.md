@@ -17,10 +17,15 @@ I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/
 
 News
 ======
-* [02/2021] One paper about adopting GCN to discover new drugs has been accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
-* [01/2021] One paper about robust learning aganist noisy label has been accepted to <font color=red> ICLR2021 (Top Conference @ AI) as spotlight </font>.
-* [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning have been accepted to <font color=red> AAAI2021 (CCF A)</font>.
-* [06/2020] One paper about multi-agent reinforcement learning has been accepted to <font color=red> ICML2020 (CCF A)</font>.
+
+> [02/2021] One paper about adopting GCN to discover new drugs has been accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
+
+> [01/2021] One paper about robust learning aganist noisy label has been accepted to <font color=red> ICLR2021 (Top Conference @ AI) as spotlight </font>.
+
+> [12/2020] Three papers about robust learning aganist noisy label and reinforcement learning have been accepted to <font color=red> AAAI2021 (CCF A)</font>.
+
+> [06/2020] One paper about multi-agent reinforcement learning has been accepted to <font color=red> ICML2020 (CCF A)</font>.
+
 
 
 <!-- Site-wide configuration
