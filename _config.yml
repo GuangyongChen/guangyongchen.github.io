@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guangyong Chen"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Guangyong Chen"
 description              : &description "personal description"
