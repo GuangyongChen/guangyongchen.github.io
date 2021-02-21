@@ -1,10 +1,10 @@
 ---
-permalink: /publication/
+permalink: /markdown/
 title: "Publication"
 author_profile: true
 redirect_from: 
   - /md/
-  - /publication.html
+  - /markdown.html
 ---
 
 ## Locations of key files/directories
