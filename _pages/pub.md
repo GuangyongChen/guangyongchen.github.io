@@ -8,7 +8,7 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
-1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models.</a> <br> Dejun Jiang, Zhenxing Wu, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Zhe Wang, Chao Shen, Dongsheng Cao*, Jian Wu* & Tingjun Hou* <br><i> <b>Journal of Cheminformatics</b>, <font color=red> JCR Q1</font>, 2021. </i><br>
+1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models.</a> <br> Dejun Jiang, Zhenxing Wu, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Zhe Wang, Chao Shen, Dongsheng Cao*, Jian Wu* & Tingjun Hou* <br><i> <b>Journal of Cheminformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 1. <a class="paper-title" href="https://openreview.net/pdf?id=80FMcTSZ6J0">  Noise against noise: stochastic label noise helps combat inherent label noise.</a> <br> Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> <b> Ninth International Conference on Learning Representations (ICLR, <font color=red> Top Conference @ AI</font>), <font color=red> Spotlight</font></b>, 2021. </i> <br>
 
