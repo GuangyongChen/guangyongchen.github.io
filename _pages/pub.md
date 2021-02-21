@@ -14,7 +14,7 @@ redirect_from:
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2012.05458">  Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise.</b></a> <br> Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i><b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>)</b>, 2021.</i><br>
 
-1. <a class="paper-title" href="https://arxiv.org/abs/2012.04193"> Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.</a> <br>Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> <b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>), 2021</b>. </i><br>
+1. <a class="paper-title" href="https://arxiv.org/abs/2012.04193"> Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.</a> <br>Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> <b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>)</b>, 2021. </i><br>
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2002.03950"> Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction.</a> <br> Hongyao Tang#, Zhaopeng Meng, <b>Guangyong Chen</b>, Pengfei Chen, Chen Chen, Yaodong Yang, Luo Zhang, Wulong Liu, Jianye Hao <br><i><b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>)</b>, 2021.</i><br>
 
