@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-$#$ denotes visiting or intern students supervised by me, $*$ denotes corresponding authors.
+\# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
 1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> <b>Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models.</b></a> <br> Dejun Jiang, Zhenxing Wu, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Zhe Wang, Chao Shen, Dongsheng Cao, Jian Wu & Tingjun Hou <br><i> Journal of Cheminformatics, 2021. </i><br>
 
@@ -26,7 +26,7 @@ $#$ denotes visiting or intern students supervised by me, $*$ denotes correspond
 
 1. <a class="paper-title" href="http://proceedings.mlr.press/v97/chen19g.html"> <b> Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels.</b></a> <br> Pengfei Chen#, Benben Liao, <b>Guangyong Chen*</b>, Shengyu Zhang. <br><i> Thirty-sixth International Conference on Machine Learning (ICML), 2019.</i><br>
 
-1. <a class="paper-title" href="https://rlgm.github.io/papers/31.pdf"> <b> Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models.</b></a> <br> <b>Guangyong Chen</b>, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang. <br><i> Representation Learning on Graphs and Manifolds, ICLR 2019 workshop.</i><p style="color: red; display: inline"><a href="https://alchemy.tencent.com/">(Alchemy Contest)</a></p><br>
+1. <a class="paper-title" href="https://rlgm.github.io/papers/31.pdf"> <b> Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models.</b></a> <br> <b>Guangyong Chen</b>, Pengfei Chen, Chang-Yu Hsieh, Chee-Kong Lee, Benben Liao, Renjie Liao, Weiwen Liu, Jiezhong Qiu, Qiming Sun, Jie Tang, Richard Zemel, Shengyu Zhang. <br><i> Representation Learning on Graphs and Manifolds, ICLR 2019 workshop.</i><a href="https://alchemy.tencent.com/">(Alchemy Contest)</a><br>
 
 1. <a class="paper-title" href="https://dl.acm.org/doi/abs/10.1145/3240323.3240390"> <b> Psrec: Social Recommendation with Pseudo Ratings.</b></a> <br> Yitong Meng, <b>Guangyong Chen</b>, Jiajin Li, Shengyu Zhang. <br><i> Proceedings of the 12th ACM Conference on Recommender Systems (RecSys), 2018.</i><br>
 
