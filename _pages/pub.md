@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-18. <a class="paper-title" href="https://openreview.net/pdf?id=80FMcTSZ6J0"> <b> Noise against noise: stochastic label noise helps combat inherent label noise.</b></a> <br> Pengfei Chen#, <b>Guangyong Chen*</b>, Junjie Ye*,  Jingwei Zhao, Pheng Ann Heng. <br><i> Ninth International Conference on Learning Representations (ICLR) <font color="red">Spotlight</font>, 2021. </i><br>
+1. <a class="paper-title" href="https://openreview.net/pdf?id=80FMcTSZ6J0"> <b> Noise against noise: stochastic label noise helps combat inherent label noise.</b></a> <br> Pengfei Chen#, <b>Guangyong Chen*</b>, Junjie Ye*,  Jingwei Zhao, Pheng Ann Heng. <br><i> Ninth International Conference on Learning Representations (ICLR) <font color="red">Spotlight</font>, 2021. </i><br>
 
-17. <a class="paper-title" href="https://arxiv.org/abs/2012.05458"> <b> Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise.</b></a> <br> Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i><br>
+1. <a class="paper-title" href="https://arxiv.org/abs/2012.05458"> <b> Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise.</b></a> <br> Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i><br>
 
-16. <a class="paper-title" href="https://arxiv.org/abs/2012.04193"> <b> Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.</b></a> <br>Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i><br>
+1. <a class="paper-title" href="https://arxiv.org/abs/2012.04193"> <b> Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.</b></a> <br>Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i><br>
 
 15. <a class="paper-title" href="https://arxiv.org/abs/2002.03950"> <b> Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction.</b></a> <br> Hongyao Tang#, Zhaopeng Meng, <b>Guangyong Chen</b>, Pengfei Chen, Chen Chen, Yaodong Yang, Luo Zhang, Wulong Liu, Jianye Hao <br><i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</i><br>
 
