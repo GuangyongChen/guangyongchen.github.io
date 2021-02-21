@@ -19,7 +19,7 @@ News
 
 Opening
 ======
-I am working closely with Prof. Pheng Ann Heng from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an email for more information or apply through the official website (CUHK PhD Summer Workshop / HKPFS / Fall 2021 PhD Program Regular Admission / Fall 2020 PhD Program Late Admission ).
+I am working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an email for more information or apply through the official website (CUHK PhD Summer Workshop / HKPFS / Fall 2021 PhD Program Regular Admission / Fall 2020 PhD Program Late Admission ).
 
 <!-- Site-wide configuration
 ------
