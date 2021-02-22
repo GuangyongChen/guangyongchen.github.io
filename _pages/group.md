@@ -14,6 +14,6 @@ redirect_from:
 * Donghao Zhou (SIAT, 2021)
 
 ## Visiting PhD Students
-* Pengfei Chen(CUHK, 2017)
+* Pengfei Chen (CUHK, 2017)
 * Bowen Wang (CUHK, 2020)
 * Zhuo Zhang (University of Melbourne, 2021)
