@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Master Students
-* Junde Xu(SIAT, 2020)
+* Junde Xu (SIAT, 2020)
 * Zhongwei Wan (SIAT, 2020)
-* Tong Yao(SIAT-USTC, 2020)
+* Tong Yao (SIAT-USTC, 2020)
 * Donghao Zhou (SIAT, 2021)
 
 ## Visiting PhD Students
