@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research focus mainly concentrates around interdisciplinary fields of **theoretical artificial intelligence analysis and real-world applications**, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making. I am recently interested in **AI-aided drug discovery**, whose typical applications include high content phenotype analysis, drug analysis with molecular graph representation, retrosynthesis analysis with reinforcement learning, virus variation, etc, all with the aim to promote wider AI-powered technologies in the modern pharmaceutical pipeline.
+I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research focus mainly concentrates around interdisciplinary fields of **theoretical artificial intelligence analysis and real-world applications**, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making.
 
 Opening
 ======
-I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their applications on AI-aided drug discovery. Feel free to drop me an <a href = "mailto: gy.chen@siat.ac.cn"> email </a> for more information or apply through the 
+I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their practical applications on AI-aided drug discovery. Feel free to drop me an <a href = "mailto: gy.chen@siat.ac.cn"> email </a> for more information or apply through the 
 [official website](https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme) ([CUHK PhD Summer Workshop](http://hkpfs.erg.cuhk.edu.hk/) / [HKPFS](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs) ).
 
 News
