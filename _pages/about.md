@@ -15,7 +15,7 @@ Opening
 I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their practical applications on AI-aided drug discovery. Feel free to drop me an <a href = "mailto: gy.chen@siat.ac.cn"> email </a> for more information or apply through the 
 [official website](https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme) ([CUHK PhD Summer Workshop](http://hkpfs.erg.cuhk.edu.hk/) / [HKPFS](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs) ).
 
-News
+Latest News
 ======
 
 > [02/2021] One paper about adopting GCN to discover new drugs has been accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
