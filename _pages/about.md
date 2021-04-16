@@ -18,7 +18,7 @@ I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/
 Latest News
 ======
 
-> [04/2021] One paper about adopting Transformer for Single-Step Retrosynthesis Predictions has been accepted to <font color=red> Chemical Engineering Journal (JCR 1)</font>.
+> [04/2021] One paper about adopting Transformer for single-step retrosynthesis predictions has been accepted to <font color=red> Chemical Engineering Journal (JCR 1)</font>.
 > 
 > [02/2021] One paper about adopting GCN to discover new drugs has been accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
 
