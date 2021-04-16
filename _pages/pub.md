@@ -11,7 +11,7 @@ redirect_from:
 1. <a class="paper-title" href="https://chemrxiv.org/ndownloader/files/25606283"> RetroPrime: A Chemistry-Inspired and Transformer-based Method for Retro-synthesis Predictions.</a> <br> Xiaorui Wang, Jiezhong Qiu, Yuquan Li, <b>Guangyong Chen</b>, Huanxiang Liu, Benben Liao, Chang-Yu Hsieh, Xiaojun Yao <br><i> <b>Chemical Engineering Journal, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 
-1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Hyperbolic Relational Graph Convolution Networks Plus: a Simple but Highly Efficient QSAR-modeling Method. </a> <br>Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao*, Tingjun Hou* <br><i> <b> Briefings in Bioinformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
+1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Hyperbolic Relational Graph Convolution Networks Plus: a Simple but Highly Efficient QSAR-modeling Method. </a> <br>Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Dongsheng Cao*, Tingjun Hou* <br><i> <b> Briefings in Bioinformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models.</a> <br> Dejun Jiang, Zhenxing Wu, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Zhe Wang, Chao Shen, Dongsheng Cao*, Jian Wu* & Tingjun Hou* <br><i> <b>Journal of Cheminformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
