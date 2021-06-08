@@ -11,7 +11,7 @@ redirect_from:
 1. <a class="paper-title" href="https://chemrxiv.org/ndownloader/files/25606283"> RetroPrime: A Chemistry-Inspired and Transformer-based Method for Retro-synthesis Predictions.</a> <br> Xiaorui Wang, Jiezhong Qiu, Yuquan Li, <b>Guangyong Chen</b>, Huanxiang Liu, Benben Liao, Chang-Yu Hsieh, Xiaojun Yao <br><i> <b>Chemical Engineering Journal, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 
-1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Hyperbolic Relational Graph Convolution Networks Plus: a Simple but Highly Efficient QSAR-modeling Method. </a> <br>Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Dongsheng Cao*, Tingjun Hou* <br><i> <b> Briefings in Bioinformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
+1. <a class="paper-title" href="https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab112/6235968"> Hyperbolic Relational Graph Convolution Networks Plus: a Simple but Highly Efficient QSAR-modeling Method. </a> <br>Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Dongsheng Cao*, Tingjun Hou* <br><i> <b> Briefings in Bioinformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 1. <a class="paper-title" href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8"> Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models.</a> <br> Dejun Jiang, Zhenxing Wu, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Zhe Wang, Chao Shen, Dongsheng Cao*, Jian Wu* & Tingjun Hou* <br><i> <b>Journal of Cheminformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
@@ -21,7 +21,7 @@ redirect_from:
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2012.04193"> Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.</a> <br>Pengfei Chen#, Junjie Ye*, <b>Guangyong Chen*</b>, Jingwei Zhao, Pheng Ann Heng. <br><i> <b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>)</b>, 2021. </i><br>
 
-1. <a class="paper-title" href="https://arxiv.org/abs/2002.03950"> Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction.</a> <br> Hongyao Tang#, Zhaopeng Meng, <b>Guangyong Chen</b>, Pengfei Chen, Chen Chen, Yaodong Yang, Luo Zhang, Wulong Liu, Jianye Hao <br><i><b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>)</b>, 2021.</i><br>
+1. <a class="paper-title" href="https://arxiv.org/abs/2103.02225"> Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction.</a> <br> Hongyao Tang#, Zhaopeng Meng, <b>Guangyong Chen</b>, Pengfei Chen, Chen Chen, Yaodong Yang, Luo Zhang, Wulong Liu, Jianye Hao <br><i><b> Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI, <font color=red> CCF A</font>)</b>, 2021.</i><br>
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2002.03950">  Q-value Path Decomposition for Deep Multiagent Reinforcement Learning.</a> <br> Yaodong Yang#, Jianye Hao, <b>Guangyong Chen*</b>, Hongyao Tang, Yingfeng Chen, Yujing Hu, Changjie Fan, Zhongyu Wei. <br><i><b> Thirty-seventh International Conference on Machine Learning (ICML, <font color=red> CCF A</font>)</b>, 2020.</i><br>
 
