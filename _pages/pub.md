@@ -8,7 +8,7 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
-1. <a class="paper-title" href="https://chemrxiv.org/ndownloader/files/25606283"> RetroPrime: A Chemistry-Inspired and Transformer-based Method for Retro-synthesis Predictions.</a> <br> Xiaorui Wang, Jiezhong Qiu, Yuquan Li, <b>Guangyong Chen</b>, Huanxiang Liu, Benben Liao, Chang-Yu Hsieh, Xiaojun Yao <br><i> <b>Chemical Engineering Journal, <font color=red> JCR Q1</font></b>, 2021. </i><br>
+1. <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1385894721014303"> RetroPrime: A Chemistry-Inspired and Transformer-based Method for Retro-synthesis Predictions.</a> <br> Xiaorui Wang, Yuquan Li, Jiezhong Qiu,  <b>Guangyong Chen</b>, Huanxiang Liu, Benben Liao, Chang-Yu Hsieh, Xiaojun Yao <br><i> <b>Chemical Engineering Journal, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 
 1. <a class="paper-title" href="https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab112/6235968"> Hyperbolic Relational Graph Convolution Networks Plus: a Simple but Highly Efficient QSAR-modeling Method. </a> <br>Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, <b>Guangyong Chen</b>, Ben Liao, Dongsheng Cao*, Tingjun Hou* <br><i> <b> Briefings in Bioinformatics, <font color=red> JCR Q1</font></b>, 2021. </i><br>
