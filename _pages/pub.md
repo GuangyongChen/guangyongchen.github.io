@@ -8,6 +8,9 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
+
+1. <a class="paper-title" href="https://arxiv.org/abs/2003.07238"> A Rotation-invariant Framework for Deep Point Cloud Analysis.</a> <br> Xianzhi Li, Ruihui Li, <b>Guangyong Chen</b>, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng. <br><i> <b>IEEE Transactions on Visualization and Computer Graphics (TVCG), <font color=red> JCR Q1</font></b>, 2021. </i><br>
+
 1. <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1385894721014303"> RetroPrime: A Chemistry-Inspired and Transformer-based Method for Retro-synthesis Predictions.</a> <br> Xiaorui Wang, Yuquan Li, Jiezhong Qiu,  <b>Guangyong Chen</b>, Huanxiang Liu, Benben Liao, Chang-Yu Hsieh, Xiaojun Yao <br><i> <b>Chemical Engineering Journal, <font color=red> JCR Q1</font></b>, 2021. </i><br>
 
 
