@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research interests mainly concentrates around **studying uncertainty contained in the deep models**, and then establishing <u>Safe, Robust and Trustworthy artificial intelligence (srt-AI) systems</u> for practical applications in the fields of fundamental science, typically including representation learning for chemical, material and biological sicence research, and reinforcement learning for the real-time photoelectric system control.
+I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research interests mainly concentrates around **studying uncertainty contained in the deep models**, based on which we aim to establish <u>Safe, Robust and Trustworthy artificial intelligence (srt-AI) systems</u> for practical applications in the fields of fundamental science, typically including representation learning for chemical, material and biological sicence research, and reinforcement learning for the real-time photoelectric system control.
 
 Opening
 ======
