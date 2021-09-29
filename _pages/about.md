@@ -18,6 +18,8 @@ I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/
 Latest News
 ======
 
+> [09/2021] One paper about investigating loss landscape to improve the continual learning performance has been accepted by <font color=red> Neurips 2021 (CCF A)</font>.
+> 
 > [07/2021] One paper about adopting adversarial guidance for monocular depth estimation has been accepted by <font color=red> the  ACM Multimedia 2021 (ACMMM) (CCF A)</font>.
 > 
 > [06/2021] One paper about developing a rotation invariant framework for point cloud analysis has been accepted by <font color=red> the  IEEE Transactions on Visualization and Computer Graphics (TVCG) (JCR 1)</font>.
