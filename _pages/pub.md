@@ -9,7 +9,7 @@ redirect_from:
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
 
-1. <a class="paper-title" href=""> Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning.</a> <br>Danruo Deng, <b>Guangyong Chen*</b>, Jianye Hao, Qiong, Pheng-Ann Heng. <br><i> <b>2021 Conference on Neural Information Processing Systems (NeurIPS), <font color=red> CCF A</font></b>, 2021. </i><br>
+1. <a class="paper-title" href=""> Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning.</a> <br>Danruo Deng, <b>Guangyong Chen*</b>, Jianye Hao, Qiong Wang, Pheng-Ann Heng. <br><i> <b>2021 Conference on Neural Information Processing Systems (NeurIPS), <font color=red> CCF A</font></b>, 2021. </i><br>
 2. 
 3. <a class="paper-title" href=""> Learning Regularizer for Monocular Depth Estimation with Adversarial Guidance.</a> <br>Guibao Shen#, Yingkui Zhang, jialu Li, Mingqiang Wei, Qiong Wang*, <b>Guangyong Chen*</b>, Pheng-Ann Heng. <br><i> <b>The 29th ACM International Conference on Multimedia (ACMMM), <font color=red> CCF A</font></b>, 2021. </i><br>
 
