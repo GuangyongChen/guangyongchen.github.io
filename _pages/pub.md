@@ -9,9 +9,9 @@ redirect_from:
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
 
-1. <a class="paper-title" href=""> Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning.</a> <br>Danruo Deng, <b>Guangyong Chen*</b>, Jianye Hao, Qiong Wang, Pheng-Ann Heng. <br><i> <b>2021 Conference on Neural Information Processing Systems (NeurIPS), <font color=red> CCF A</font></b>, 2021. </i><br>
+1. <a class="paper-title" href="https://arxiv.org/pdf/2110.04593.pdf"> Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning.</a> <br>Danruo Deng, <b>Guangyong Chen*</b>, Jianye Hao, Qiong Wang, Pheng-Ann Heng. <br><i> <b>2021 Conference on Neural Information Processing Systems (NeurIPS), <font color=red> CCF A</font></b>, 2021. </i><br>
 
-1. <a class="paper-title" href=""> Learning Regularizer for Monocular Depth Estimation with Adversarial Guidance.</a> <br>Guibao Shen#, Yingkui Zhang, jialu Li, Mingqiang Wei, Qiong Wang*, <b>Guangyong Chen*</b>, Pheng-Ann Heng. <br><i> <b>The 29th ACM International Conference on Multimedia (ACMMM), <font color=red> CCF A</font></b>, 2021. </i><br>
+1. <a class="paper-title" href="https://dl.acm.org/doi/pdf/10.1145/3474085.3475639"> Learning Regularizer for Monocular Depth Estimation with Adversarial Guidance.</a> <br>Guibao Shen#, Yingkui Zhang, jialu Li, Mingqiang Wei, Qiong Wang*, <b>Guangyong Chen*</b>, Pheng-Ann Heng. <br><i> <b>The 29th ACM International Conference on Multimedia (ACMMM), <font color=red> CCF A</font></b>, 2021. </i><br>
 
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2003.07238"> A Rotation-invariant Framework for Deep Point Cloud Analysis.</a> <br> Xianzhi Li, Ruihui Li, <b>Guangyong Chen</b>, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng. <br><i> <b>IEEE Transactions on Visualization and Computer Graphics (TVCG), <font color=red> JCR Q1</font></b>, 2021. </i><br>
