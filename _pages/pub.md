@@ -9,6 +9,8 @@ redirect_from:
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
 
+1. <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S2468025721001710"> Accelerated Prediction of Cu-based Single-Atom Alloy Catalysts for CO2 Reduction by Machine Learning. </a> <br>Dashuai Wang, Runfeng Cao, Shaogang Hao, Chen Liang, <b>Guangyong Chen</b>, Pengfei Chen, Yang Lie, Xiaolong Zou <br><i> <b>Green Energy & Environment, <font color=red> JCR Q1 A</font></b>, 2021. </i><br>
+
 1. <a class="paper-title" href="https://arxiv.org/pdf/2110.04593.pdf"> Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning.</a> <br>Danruo Deng, <b>Guangyong Chen*</b>, Jianye Hao, Qiong Wang, Pheng-Ann Heng. <br><i> <b>2021 Conference on Neural Information Processing Systems (NeurIPS), <font color=red> CCF A</font></b>, 2021. </i><br>
 
 1. <a class="paper-title" href="https://dl.acm.org/doi/pdf/10.1145/3474085.3475639"> Learning Regularizer for Monocular Depth Estimation with Adversarial Guidance.</a> <br>Guibao Shen#, Yingkui Zhang, jialu Li, Mingqiang Wei, Qiong Wang*, <b>Guangyong Chen*</b>, Pheng-Ann Heng. <br><i> <b>The 29th ACM International Conference on Multimedia (ACMMM), <font color=red> CCF A</font></b>, 2021. </i><br>
