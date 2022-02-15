@@ -18,6 +18,8 @@ I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/
 Latest News
 ======
 
+> [2/2022] One paper that adopts joint supervision learning algorithm to optimize a lattice hypergraph on the congestion prediciton problem has been accepted by <font color=red>DAC 2022 (CCF A)</font>.
+> 
 > [11/2021] One paper that proposes a machine learing paradigm for the rational design and fast screening of SAAs for various electrocatalytic reactions has been accepted by <font color=red>Green Energy & Environment(JCR 1)</font>.
 > 
 > [09/2021] One paper about investigating loss landscape to improve the continual learning performance has been accepted by <font color=red> Neurips 2021 (CCF A)</font>.
