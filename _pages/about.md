@@ -30,7 +30,7 @@ Latest News
 
 > [04/2021] One paper about adopting Transformer for single-step retrosynthesis predictions has been accepted to <font color=red> Chemical Engineering Journal (JCR 1)</font>.
 
-> [03/2021] One paper about adopting GCN for QSAR has been accepted to <font color=red> Briefings in Bioinformatics(JCR 1)</font>.
+> [03/2021] One paper about adopting GCN for QSAR has been accepted to <font color=red> Briefings in Bioinformatics (JCR 1)</font>.
 
 > [02/2021] One survey paper about adopting GCN to discover new drugs has been accepted to <font color=red> Journal of Cheminformatics (JCR 1)</font>.
 
