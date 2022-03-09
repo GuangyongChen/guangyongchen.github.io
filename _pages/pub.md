@@ -8,6 +8,10 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
+1. <a class="paper-title" href="https://2022.sigmod.org/"> Approximate Range Thresholding. </a> <br>Zhuo Zhang, Junhao Gan, Zhifeng Bao, Seyed Mohammad Hussein Kazemi , <b>Guangyong Chen</b>, Fengyuan Zhu<br><i> <b>ACM Special Interest Group in Management Of Data (SIGMOD) 2022, <font color=red> CCF A</font></b>, 2022. </i><br>
+
+1. <a class="paper-title" href="https://www.dac.com/"> 	LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction. </a> <br>Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, Yibo Lin,
+ <b>Guangyong Chen*</b> and Pheng Ann Heng <br><i> <b>Design Automation Conference (DAC) 2022, <font color=red> CCF A</font></b>, 2021. </i><br>
 
 1. <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S2468025721001710"> Accelerated Prediction of Cu-based Single-Atom Alloy Catalysts for CO2 Reduction by Machine Learning. </a> <br>Dashuai Wang, Runfeng Cao, Shaogang Hao, Chen Liang, <b>Guangyong Chen</b>, Pengfei Chen, Yang Lie, Xiaolong Zou <br><i> <b>Green Energy & Environment, <font color=red> JCR Q1, IF: 8.21</font></b>, 2021. </i><br>
 
