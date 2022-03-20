@@ -19,6 +19,9 @@ Latest News
 ======
 
 
+
+> [3/2022] One paper that adopts deep learning to extract encoded information hidden in the speckle patterns for high-fidelity information decryption has been accepted by <font color=red>ACS Photonics (JCR 2)</font>.
+
 > [3/2022] One paper that proposes a novel bucketing technique to address the Range Thresholding (RT) problem over streams has been accepted by <font color=red>SIGMOD 2022 (CCF A)</font>.
 
 > [2/2022] One paper that proposes a joint supervision learning algorithm to optimize a novel lattice hypergraph on the congestion prediciton problem has been accepted by <font color=red>DAC 2022 (CCF A)</font>.
