@@ -8,7 +8,7 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
-1. <a class="paper-title" href="https://2022.sigmod.org/"> Approximate Range Thresholding. </a> <br>Zhuo Zhang, Junhao Gan, Zhifeng Bao, Seyed Mohammad Hussein Kazemi , <b>Guangyong Chen</b>, Fengyuan Zhu<br><i> <b>ACM Special Interest Group in Management Of Data (SIGMOD), <font color=red> CCF A</font></b>, 2022. </i><br>
+1. <a class="paper-title" href="https://pubs.acs.org/doi/10.1021/acsphotonics.1c01303"> Deep Learning-Enabled Orbital Angular Momentum-Based Information Encryption Transmission. </a> <br>Fu Feng, Junbao Hu, Zefeng Guo, Jia-An Gan, Peng-Fei Chen, <b>Guangyong Chen</b>, Changjun Min*, Xiaocong Yuan*, and Michael Somekh*<br><i> <b>ACS Photonics, <font color=red>JCR Q2, IF: 7.52</font></b>, 2022. </i><br>
 
 1. <a class="paper-title" href="https://www.dac.com/"> 	LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction. </a> <br>Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, Yibo Lin,
  <b>Guangyong Chen*</b> and Pheng Ann Heng <br><i> <b>Design Automation Conference (DAC), <font color=red> CCF A</font></b>, 2022. </i><br>
