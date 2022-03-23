@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research interests mainly concentrates around **fundamental AI**, including robust learning and graph representation with their practical applications in the fields of fundamental science.
+I will join in [Zhejiang Lab](https://www.zhejianglab.com/) and [the State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/) soon, I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research interests mainly concentrates around **fundamental AI**, including robust learning and graph representation with their practical applications in the fields of fundamental science.
 
 Opening
 ======
-I am now working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) from CUHK, and we are now looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms, as well as their practical applications on AI-aided drug discovery. Feel free to drop me an <a href = "mailto: gy.chen@siat.ac.cn"> email </a> for more information or apply through the 
+I am always looking for self-motivated undergraduate and graduate students with diverse background in mathematics, statistics, computer science, physics, chemistry and biology, to work together on the reserach fields of **AI for Science**. We have opening positions available right now, including **full-time researcher, Engineer, Post Doc, Ph.D., and Interns** in the Zhejiang Lab and Zhejiang University.
+
+I am also working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/), and looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms with their practical applications on AI-aided drug discovery, in CUHK. Feel free to drop me an <a href = "mailto: gychen@link.cuhk.edu.hk"> email </a> for more information or apply through the 
 [official website](https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme) ([CUHK PhD Summer Workshop](http://hkpfs.erg.cuhk.edu.hk/) / [HKPFS](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs) ).
 
 Latest News
