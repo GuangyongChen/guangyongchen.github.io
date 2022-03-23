@@ -12,7 +12,7 @@ I will join in [Zhejiang Lab](https://www.zhejianglab.com/) and [the State Key L
 
 Opening
 ======
-I am always looking for self-motivated undergraduate and graduate students with diverse background in mathematics, statistics, computer science, physics, chemistry and biology, to work together on the exciting reserach fields of **AI for Science**. We have opening positions available right now, including **full-time researcher, Engineer, Post Doc, Ph.D., and Interns** in the Zhejiang Lab and Zhejiang University.
+I am always looking for self-motivated undergraduate and graduate students with diverse background in mathematics, statistics, computer science, physics, chemistry and biology, to work together on the exciting reserach field of **AI for Science**. We have opening positions available right now, including **full-time researcher, Engineer, Post Doc, Ph.D., and Interns** in the Zhejiang Lab and Zhejiang University.
 
 I am also working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/), and looking for PhD/Mphil/RA/Postdoc interested in developing advanced artificial intelligence algorithms with their practical applications on AI-aided drug discovery, in CUHK. Feel free to drop me an <a href = "mailto: gychen@link.cuhk.edu.hk"> email </a> for more information or apply through the 
 [official website](https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme) ([CUHK PhD Summer Workshop](http://hkpfs.erg.cuhk.edu.hk/) / [HKPFS](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs) ).
