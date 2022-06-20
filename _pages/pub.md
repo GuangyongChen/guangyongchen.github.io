@@ -8,6 +8,12 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
+1. <a class="paper-title" href="https://opg.optica.org/OE/abstract.cfm?uri=OE-30-13-23149"> Data transmission with up to 100 orbital angular momentum modes via commercial multi-mode fiber and parallel neural networks </a><br>
+Fu Feng, Jia-An Gan, Jingpeng Nong, Peng-Fei Chen, <b>Guangyong Chen</b>, Changjun Min, Xiaocong Yuan, and Michael Somekh<br><i> <b>Optics Express, <font color=red>JCR Q2, Editor's Pick</font></b>, 2022. </i><br>
+
+1. <a class="paper-title" href="https://dl.acm.org/doi/abs/10.1145/3514221.3526123"> Approximate Range Thresholding </a><br>
+Zhuo Zhang , Junhao Gan , Zhifeng Bao , Seyed Mohammad Hussein Kazemi , <b>Guangyong Chen</b> , Fengyuan Zhu<br><i> <b>Proceedings of the 2022 International Conference on Management of Data(SIGMOD), <font color=red>CCF A</font></b>, 2022. </i><br>
+
 1. <a class="paper-title" href="https://pubs.acs.org/doi/10.1021/acsphotonics.1c01303"> Deep Learning-Enabled Orbital Angular Momentum-Based Information Encryption Transmission. </a> <br>Fu Feng, Junbao Hu, Zefeng Guo, Jia-An Gan, Peng-Fei Chen, <b>Guangyong Chen</b>, Changjun Min*, Xiaocong Yuan*, and Michael Somekh*<br><i> <b>ACS Photonics, <font color=red>JCR Q2, IF: 7.52</font></b>, 2022. </i><br>
 
 1. <a class="paper-title" href="https://www.dac.com/"> 	LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction. </a> <br>Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, Yibo Lin,
