@@ -20,8 +20,12 @@ I am working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~phe
 Latest News
 ======
 
+> [7/2022] One paper that introduces entropy to acknowledge the unknown information for multi-label learning  has been accepted by <font color=red>ECCV 2022</font>.
+> 
+> [4/2022] One paper that address the imbalance learning by flattening the loss landscape has been early accepted by <font color=red>MICCAI 2022</font>.
 
-
+> [4/2022] One paper that recognizing the sign language by fine-tuning the pretrained large-scale model has been accepted by <font color=red>NAACAL 2022</font>.
+> 
 > [3/2022] One paper that adopts deep learning to extract encoded information hidden in the speckle patterns for high-fidelity information decryption has been accepted by <font color=red>ACS Photonics (JCR 2)</font>.
 
 > [3/2022] One paper that proposes a novel bucketing technique to address the Range Thresholding (RT) problem over streams has been accepted by <font color=red>SIGMOD 2022 (CCF A)</font>.
