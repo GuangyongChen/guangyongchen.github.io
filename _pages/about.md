@@ -20,7 +20,7 @@ I am working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~phe
 Latest News
 ======
 
-> [7/2022] One paper that introduces entropy to acknowledge the unknown information for multi-label learning  has been accepted by <font color=red>ECCV 2022</font>.
+> [7/2022] One paper that introduces a simple entropy term to acknowledge the unknown information for multi-label learning  has been accepted by <font color=red>ECCV 2022</font>.
 > 
 > [4/2022] One paper that address the imbalance learning by flattening the loss landscape has been early accepted by <font color=red>MICCAI 2022</font>.
 
