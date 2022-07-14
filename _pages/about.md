@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join in [Zhejiang Lab](https://www.zhejianglab.com/) and [the State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/) soon, I am now an associate professor working in [Shenzhen Institute of Advanced Technology (SIAT)](http://english.siat.cas.cn/), [Chinese Academy of Science (CAS)](http://english.cas.cn/). My research interests mainly concentrates around **fundamental AI**, including robust learning and graph representation with their practical applications in the fields of fundamental science.
+I am a Zhejiang University - Zhejiang Lab Hundred-Program Researcher mainly based in Zhejiang Lab(https://en.zhejianglab.com/). My research interests mainly concentrates around **fundamental AI**, including robust learning and graph representation with their practical applications in the fields of fundamental science.
 
 Opening
 ======
