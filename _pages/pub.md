@@ -8,6 +8,12 @@ redirect_from:
 ---
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
+1. <a class="paper-title" href="https://arxiv.org/abs/2203.16219"> Acknowledging the Unknown for Multi-label Learning with Single Positive Labels </a><br> Donghao Zhou, Pengfei Chen, Qiong Wang, <b>Guangyong Chen*</b>, Pheng-Ann Heng <br><i> <b>European Conference on Computer Vision 2022 (ECCV)</b>, 2022. </i><br>
+
+1. <a class="paper-title" href=""> Flat-aware Cross-stage Distilled Framework for Imbalanced Medical Image Classification.  </a><br>  Jinpeng Li,  <b>Guangyong Chen*</b>, Hangyu Mao, Danruo Deng, Dong Li, Jianye Hao, Qi Dou, Pheng-Ann Heng. <br><i> <b>Medical Image Computing and Computer Assisted Interventions (MICCAI), 2022. <font color=red> (Early accept)</font></b>, 2022. </i><br>
+
+1. <a class="paper-title" href="https://arxiv.org/abs/2204.05953"> Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation </a><br>  Yong Cao, Wei Li, Xianzhi Li, Min Chen, <b>Guangyong Chen</b>, Long Hu, Zhengdao Li, Kai Hwang <br><i> <b>2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</b>, 2022. </i><br>
+
 1. <a class="paper-title" href="https://opg.optica.org/OE/abstract.cfm?uri=OE-30-13-23149"> Data transmission with up to 100 orbital angular momentum modes via commercial multi-mode fiber and parallel neural networks </a><br>
 Fu Feng, Jia-An Gan, Jingpeng Nong, Peng-Fei Chen, <b>Guangyong Chen</b>, Changjun Min, Xiaocong Yuan, and Michael Somekh<br><i> <b>Optics Express, <font color=red>JCR Q2, Editor's Pick</font></b>, 2022. </i><br>
 
