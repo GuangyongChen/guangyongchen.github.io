@@ -20,7 +20,7 @@ I am working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~phe
 Latest News
 ======
 
-> [7/2022] One paper that addresses the pseudo-lable strategy for robotic scene segmentation with limted annotations has been accepted by <font color=red>IROS 2022</font>.
+> [7/2022] One paper that adopts the pseudo-lable strategy for robotic scene segmentation with limted annotations has been accepted by <font color=red>IROS 2022</font>.
 > 
 > [7/2022] One paper that addresses sizing problem with GCN has been accepted by <font color=red>ICCAD 2022</font>.
 > 
