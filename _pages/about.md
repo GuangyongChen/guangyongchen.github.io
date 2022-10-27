@@ -20,6 +20,10 @@ I am working closely with [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~phe
 Latest News
 ======
 > [10/2022] One paper that adopts the cointinual learning strategy to adopt pre-train large scale model to handle NLP tasks has been accepted by <font color=red>EMNLP2022</font>.
+
+
+> [10/2022] One paper that improves the performance of MARL by parsing its action space has been accepted by <font color=red>NeurIPS 2022</font>.
+> 
 > 
 > [7/2022] One paper that adopts the pseudo-lable strategy for robotic scene segmentation with limted annotations has been accepted by <font color=red>IROS 2022</font>.
 > 
