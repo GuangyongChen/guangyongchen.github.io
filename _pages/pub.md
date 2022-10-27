@@ -11,6 +11,10 @@ redirect_from:
 
 1. <a class="paper-title" href=""> G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks </a><br> Zhongwei Wan, Yichun Yin, Wei Zhang, Jiaxin Shi, Lifeng Shang, <b>Guangyong Chen*</b>, Xin Jiang, Qun Liu Yang,<br><i> <b>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP),<font color=red>CCF B</font></b> 2022. </i><br>
 
+1.  <a class="paper-title" href=""> Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing
+ </a><br> Yaodong Yang, <b>Guangyong Chen*</b>, Weixun Wang, Xiaotian Hao, Jianye HAO, , Pheng-Ann Heng
+<br><i> <b> The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS),<font color=red>CCF A</font></b> 2022.</i><br>
+
 1. <a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Heterogeneous Graph Neural Network-based Imitation Learning for Gate Sizing Acceleration </a><br> 2.	Xinyi Zhou, Junjie Ye, Chak-Wa Pui, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, <b>Guangyong Chen*</b>, Pheng Ann Heng. <br><i> <b>2022 International Conference on Computer-Aided Design (ICCAD),<font color=red>CCF B</font></b> 2022. </i><br>
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2203.16219"> Acknowledging the Unknown for Multi-label Learning with Single Positive Labels </a><br> Donghao Zhou, Pengfei Chen, Qiong Wang, <b>Guangyong Chen*</b>, Pheng-Ann Heng <br><i> <b>European Conference on Computer Vision 2022 (ECCV)</b>, 2022. </i><br>
