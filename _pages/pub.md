@@ -15,7 +15,9 @@ redirect_from:
  </a><br> Yaodong Yang, <b>Guangyong Chen*</b>, Weixun Wang, Xiaotian Hao, Jianye HAO, , Pheng-Ann Heng
 <br><i> <b> The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS),<font color=red>CCF A</font></b> 2022.</i><br>
 
-1. <a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Heterogeneous Graph Neural Network-based Imitation Learning for Gate Sizing Acceleration </a><br> 2.	Xinyi Zhou, Junjie Ye, Chak-Wa Pui, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, <b>Guangyong Chen*</b>, Pheng Ann Heng. <br><i> <b>2022 International Conference on Computer-Aided Design (ICCAD),<font color=red>CCF B</font></b> 2022. </i><br>
+1.<a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations </a><br> Yang Yu, Zixu Zhao, Yueming Jin, <b>Guangyong Chen*</b>, Qi Dou, Pheng-Ann Heng <br><i> <b>The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) ,<font color=red>CCF C</font></b> 2022. </i><br>
+
+1. <a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Heterogeneous Graph Neural Network-based Imitation Learning for Gate Sizing Acceleration </a><br> Xinyi Zhou, Junjie Ye, Chak-Wa Pui, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, <b>Guangyong Chen*</b>, Pheng Ann Heng. <br><i> <b>2022 International Conference on Computer-Aided Design (ICCAD),<font color=red>CCF B</font></b> 2022. </i><br>
 
 1. <a class="paper-title" href="https://arxiv.org/abs/2203.16219"> Acknowledging the Unknown for Multi-label Learning with Single Positive Labels </a><br> Donghao Zhou, Pengfei Chen, Qiong Wang, <b>Guangyong Chen*</b>, Pheng-Ann Heng <br><i> <b>European Conference on Computer Vision 2022 (ECCV)</b>, 2022. </i><br>
 
