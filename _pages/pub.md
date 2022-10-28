@@ -13,7 +13,7 @@ redirect_from:
 
 1. <a class="paper-title" href=""> Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing </a><br> Yaodong Yang, <b>Guangyong Chen*</b>, Weixun Wang, Xiaotian Hao, Jianye HAO, , Pheng-Ann Heng <br><i> <b> The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS),<font color=red>CCF A</font></b> 2022.</i><br>
 
-1.<a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations </a><br> Yang Yu, Zixu Zhao, Yueming Jin, <b>Guangyong Chen*</b>, Qi Dou, Pheng-Ann Heng <br><i> <b>The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </b> 2022. </i><br>
+1. <a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations </a><br> Yang Yu, Zixu Zhao, Yueming Jin, <b>Guangyong Chen*</b>, Qi Dou, Pheng-Ann Heng <br><i> <b>The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </b> 2022. </i><br>
 
 1. <a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Heterogeneous Graph Neural Network-based Imitation Learning for Gate Sizing Acceleration </a><br> Xinyi Zhou, Junjie Ye, Chak-Wa Pui, Kun Shao, Guangliang Zhang, Bin Wang, Jianye Hao, <b>Guangyong Chen*</b>, Pheng Ann Heng. <br><i> <b>2022 International Conference on Computer-Aided Design (ICCAD),<font color=red>CCF B</font></b> 2022. </i><br>
 
