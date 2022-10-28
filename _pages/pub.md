@@ -11,9 +11,7 @@ redirect_from:
 
 1. <a class="paper-title" href=""> G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks </a><br> Zhongwei Wan, Yichun Yin, Wei Zhang, Jiaxin Shi, Lifeng Shang, <b>Guangyong Chen*</b>, Xin Jiang, Qun Liu Yang,<br><i> <b>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP),<font color=red>CCF B</font></b> 2022. </i><br>
 
-1.  <a class="paper-title" href=""> Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing
- </a><br> Yaodong Yang, <b>Guangyong Chen*</b>, Weixun Wang, Xiaotian Hao, Jianye HAO, , Pheng-Ann Heng
-<br><i> <b> The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS),<font color=red>CCF A</font></b> 2022.</i><br>
+1. <a class="paper-title" href=""> Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing </a><br> Yaodong Yang, <b>Guangyong Chen*</b>, Weixun Wang, Xiaotian Hao, Jianye HAO, , Pheng-Ann Heng <br><i> <b> The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS),<font color=red>CCF A</font></b> 2022.</i><br>
 
 1.<a class="paper-title" href="https://cwpui.com/doc/main.pdf"> Pseudo-label Guided Cross-video Pixel Contrast for Robotic Surgical Scene Segmentation with Limited Annotations </a><br> Yang Yu, Zixu Zhao, Yueming Jin, <b>Guangyong Chen*</b>, Qi Dou, Pheng-Ann Heng <br><i> <b>The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </b> 2022. </i><br>
 
