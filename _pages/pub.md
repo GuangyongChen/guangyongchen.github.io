@@ -9,7 +9,7 @@ redirect_from:
 \# denotes visiting or intern students supervised by me, \* denotes corresponding authors.
 
 
-1. <a class="paper-title" href="">Comparative plastome analyses and evolutionary relationships of all species and cultivars within the medicinal plant genus Atractylodes</a><br> Wuqin Xu, Ruisen Lu, Junyou Li, Maoqin Xia, <b>Guangyong Chen*</b>, Pan Li*,<br><i> <b>Industrial Crops and Products, <font color=red>JCR Q1</font></b> 2023. </i><br>
+1. <a class="paper-title" href="">Comparative plastome analyses and evolutionary relationships of all species and cultivars within the medicinal plant genus Atractylodes</a><br> Wuqin Xu, Ruisen Lu, Junyou Li, Maoqin Xia, <b>Guangyong Chen*</b>, Pan Li,<br><i> <b>Industrial Crops and Products, <font color=red>JCR Q1</font></b> 2023. </i><br>
 
 1. <a class="paper-title" href="">MetaRF: attention-based random forest for reaction yield prediction with a few trails  </a><br> Kexin Chen#, <b>Guangyong Chen*</b>, Junyou Li, Yuansheng Huang, Ercheng Wang, Tingjun Hou, Pheng-Ann Heng,<br><i> <b>Journal of Cheminformatics, <font color=red>JCR Q2</font></b> 2023. </i><br>
 
