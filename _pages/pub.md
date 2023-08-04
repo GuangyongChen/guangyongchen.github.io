@@ -13,7 +13,7 @@ redirect_from:
 
 1. <a class="paper-title" href="">MetaRF: attention-based random forest for reaction yield prediction with a few trails  </a><br> Kexin Chen#, <b>Guangyong Chen*</b>, Junyou Li, Yuansheng Huang, Ercheng Wang, Tingjun Hou, Pheng-Ann Heng,<br><i> <b>Journal of Cheminformatics,<font color=red>JCR Q2</font></b> 2023. </i><br>
 
-1. <a class="paper-title" href=""> Traj-MAE: Masked Autoencoders for Trajectory Prediction </a><br> Hao Chen, Jiaze Wang, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, <b>Guangyong Chen*</b>, Pheng-Ann Heng,<br><i> <b>2023 International Conference on Computer Vision (ICCV),<font color=red>CCF A</font></b> 2023. </i><br>
+1. <a class="paper-title" href=""> Traj-MAE: Masked Autoencoders for Trajectory Prediction </a><br> Hao Chen#, Jiaze Wang, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, <b>Guangyong Chen*</b>, Pheng-Ann Heng,<br><i> <b>2023 International Conference on Computer Vision (ICCV),<font color=red>CCF A</font></b> 2023. </i><br>
 
 1. <a class="paper-title" href=""> Uncertainty estimation by fisher information-based evidential deep learning </a><br> Danruo Deng,  <b>Guangyong Chen*</b>, Yang Yu, Furui Liu, Pheng-Ann Heng ,<br><i> <b>The Fortieth International Conference on Machine Learning  (ICML),<font color=red>CCF A</font></b> 2023. </i><br>
 
